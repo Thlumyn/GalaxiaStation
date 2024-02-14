@@ -1,0 +1,74 @@
+"aB" = (/turf/open/floor/catwalk_floor,/area/misc/hilbertshotel)
+"aF" = (/obj/machinery/door/morgue,/obj/effect/turf_decal/siding/thinplating/dark,/obj/effect/turf_decal/siding/thinplating/dark{dir = 1},/turf/open/floor/catwalk_floor,/area/misc/hilbertshotel)
+"bp" = (/obj/effect/turf_decal/siding/thinplating/dark{dir = 1},/obj/machinery/light_switch/directional/north,/obj/machinery/light/cold/directional/north,/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"bX" = (/obj/effect/turf_decal/siding/thinplating/dark{dir = 8},/obj/machinery/door/airlock/bathroom,/turf/open/floor/iron/freezer,/area/misc/hilbertshotel)
+"dU" = (/obj/structure/window/spawner/directional/south,/obj/structure/drain,/obj/structure/curtain,/obj/machinery/shower/directional/south,/turf/open/floor/iron/freezer,/area/misc/hilbertshotel)
+"ep" = (/obj/item/kitchen/spoon,/obj/item/kitchen/spoon,/obj/item/kitchen/spoon,/obj/item/kitchen/spoon,/obj/item/kitchen/fork,/obj/item/kitchen/fork,/obj/item/kitchen/fork,/obj/item/kitchen/fork,/obj/effect/spawner/random/food_or_drink/three_course_meal,/obj/effect/spawner/random/food_or_drink/three_course_meal,/obj/effect/spawner/random/food_or_drink/three_course_meal,/obj/effect/spawner/random/food_or_drink/three_course_meal,/obj/effect/spawner/random/food_or_drink/three_course_meal,/obj/effect/spawner/random/food_or_drink/three_course_meal,/obj/effect/spawner/random/food_or_drink/three_course_meal,/obj/item/plate,/obj/item/plate,/obj/item/plate,/obj/item/plate,/obj/item/storage/cans/sixbeer,/obj/item/reagent_containers/cup/glass/drinkingglass,/obj/item/reagent_containers/cup/glass/drinkingglass,/obj/item/reagent_containers/cup/glass/drinkingglass,/obj/item/reagent_containers/cup/glass/drinkingglass,/obj/item/storage/fancy/pickles_jar,/obj/structure/closet/secure_closet/freezer/kitchen/mining{storage_capacity = 60},/obj/effect/spawner/random/food_or_drink/donkpockets,/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/iron/kitchen,/area/misc/hilbertshotel)
+"fg" = (/turf/open/floor/iron/freezer,/area/misc/hilbertshotel)
+"fM" = (/obj/structure/chair/comfy/shuttle{dir = 1},/obj/effect/turf_decal/stripes/white/line,/obj/machinery/light/cold/directional/south,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"hh" = (/turf/closed/wall/mineral/titanium/nodiagonal,/area/misc/hilbertshotel)
+"jm" = (/obj/machinery/door/morgue,/obj/effect/turf_decal/siding/thinplating/dark,/obj/effect/turf_decal/siding/thinplating/dark{dir = 1},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"jv" = (/obj/machinery/power/shuttle_engine/heater{dir = 8},/obj/structure/window/reinforced/spawner/directional/east,/turf/open/floor/plating,/area/misc/hilbertshotel)
+"lf" = (/obj/effect/turf_decal/stripes/white/line,/obj/structure/closet/crate/bin,/obj/machinery/light_switch/directional/south,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"mr" = (/turf/closed/indestructible/hoteldoor{icon_state = "door_closed"; icon = 'icons/obj/doors/puzzledoor/default.dmi'},/area/misc/hilbertshotel)
+"mW" = (/obj/structure/table,/obj/effect/turf_decal/stripes/white/line{dir = 9},/obj/item/storage/box/donkpockets{pixel_x = -2; pixel_y = 4},/obj/machinery/light/cold/directional/south,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"mZ" = (/obj/effect/turf_decal/stripes/white/line{dir = 8},/obj/effect/turf_decal/stripes/white/corner{dir = 4},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"nV" = (/obj/structure/chair/sofa/corp/right,/obj/effect/turf_decal/siding/thinplating/dark{dir = 1},/obj/structure/sign/painting/large/library{dir = 1},/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"pS" = (/obj/effect/spawner/structure/window/reinforced/shuttle,/turf/open/floor/plating,/area/misc/hilbertshotel)
+"qx" = (/obj/effect/turf_decal/siding/thinplating/dark,/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"rs" = (/obj/structure/table,/obj/effect/turf_decal/siding/thinplating/dark{dir = 6},/obj/item/flashlight/lamp/green{pixel_x = 1; pixel_y = 0},/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"sn" = (/obj/machinery/power/port_gen/pacman{anchored = 1},/obj/effect/turf_decal/stripes/end{dir = 8},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"sp" = (/obj/effect/turf_decal/siding/thinplating/dark{dir = 9},/obj/structure/noticeboard/directional/north,/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"sA" = (/obj/effect/turf_decal/stripes/white/line{dir = 1},/turf/open/floor/catwalk_floor,/area/misc/hilbertshotel)
+"sJ" = (/obj/structure/chair/comfy/shuttle{dir = 1},/obj/effect/turf_decal/stripes/white/end,/obj/machinery/light_switch/directional/west,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"sT" = (/obj/effect/turf_decal/siding/thinplating/dark{dir = 1},/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"uu" = (/obj/machinery/door/airlock/hatch{name = "Command"},/turf/open/floor/catwalk_floor,/area/misc/hilbertshotel)
+"vW" = (/obj/effect/turf_decal/stripes/white/line,/obj/item/kirbyplants/organic,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"xF" = (/obj/structure/table,/obj/effect/turf_decal/stripes/white/line{dir = 10},/obj/item/folder/blue{pixel_x = 6; pixel_y = 5},/obj/item/pen{pixel_x = 5; pixel_y = 3},/obj/machinery/light/cold/directional/north,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"yJ" = (/obj/structure/chair/comfy/shuttle,/obj/effect/turf_decal/stripes/white/end{dir = 1},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"yX" = (/obj/effect/spawner/structure/window/reinforced/shuttle,/obj/structure/curtain/bounty/start_closed,/turf/open/floor/plating,/area/misc/hilbertshotel)
+"zG" = (/obj/machinery/light/cold/directional/south,/turf/open/floor/catwalk_floor,/area/misc/hilbertshotel)
+"AR" = (/obj/structure/table,/obj/effect/turf_decal/siding/thinplating/dark,/obj/item/toy/cards/deck,/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"BN" = (/obj/structure/closet/emcloset/anchored,/obj/effect/turf_decal/stripes/line{dir = 9},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"BT" = (/obj/machinery/power/shuttle_engine/huge{dir = 8},/turf/open/space/basic,/area/misc/hilbertshotel)
+"Cb" = (/obj/structure/ore_box,/obj/effect/turf_decal/stripes/white/line{dir = 1},/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"DG" = (/turf/open/space/bluespace,/area/misc/hilbertshotel)
+"Fg" = (/obj/effect/turf_decal/stripes/white/line{dir = 4},/obj/machinery/computer{dir = 8},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"Fi" = (/obj/structure/mirror/directional/west,/obj/structure/sink/directional/east,/obj/machinery/light/cold/directional/south,/turf/open/floor/iron/freezer,/area/misc/hilbertshotel)
+"FY" = (/turf/open/space/basic,/area/misc/hilbertshotel)
+"Iz" = (/obj/structure/bed/double/pod{dir = 4},/obj/effect/turf_decal/siding/thinplating/dark{dir = 10},/obj/item/bedsheet/dorms_double{dir = 1},/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"IH" = (/obj/structure/table,/obj/effect/turf_decal/stripes/white/line{dir = 10},/obj/machinery/microwave{pixel_x = -2; pixel_y = 6},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"JR" = (/obj/effect/turf_decal/stripes/white/line{dir = 1},/obj/item/kirbyplants/organic,/obj/structure/noticeboard/directional/north,/obj/machinery/light/cold/directional/north,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"KF" = (/obj/structure/closet/crate,/obj/effect/turf_decal/stripes/white/line,/obj/effect/turf_decal/stripes/line{dir = 8},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"Lr" = (/obj/effect/turf_decal/stripes/white/line{dir = 8},/obj/effect/turf_decal/stripes/white/corner,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"Ms" = (/obj/machinery/power/shuttle_engine/propulsion/burst/left{dir = 8},/obj/structure/window/reinforced/spawner/directional/east,/turf/open/space/basic,/area/misc/hilbertshotel)
+"Nt" = (/obj/effect/turf_decal/stripes/white/line{dir = 1},/obj/structure/chair/comfy/shuttle,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"PZ" = (/obj/structure/table,/obj/effect/turf_decal/stripes/white/line{dir = 9},/obj/machinery/coffeemaker{pixel_y = 9},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"Rk" = (/obj/structure/chair/sofa/corp/left,/obj/effect/turf_decal/siding/thinplating/dark{dir = 5},/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"Rw" = (/obj/structure/toilet{dir = 8},/turf/open/floor/iron/freezer,/area/misc/hilbertshotel)
+"Rx" = (/turf/closed/wall/mineral/titanium,/area/misc/hilbertshotel)
+"RR" = (/obj/structure/closet/cabinet,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"Ty" = (/obj/structure/chair/comfy/shuttle,/obj/effect/turf_decal/stripes/white/line{dir = 1},/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"TJ" = (/obj/structure/dresser,/obj/effect/turf_decal/siding/thinplating/dark,/turf/open/floor/carpet,/area/misc/hilbertshotel)
+"Wl" = (/obj/machinery/power/shuttle_engine/propulsion/burst/right{dir = 8},/obj/structure/window/reinforced/spawner/directional/east,/turf/open/space/basic,/area/misc/hilbertshotel)
+"Xb" = (/obj/effect/turf_decal/stripes/white/line{dir = 4},/turf/open/floor/catwalk_floor,/area/misc/hilbertshotel)
+"Zi" = (/obj/effect/turf_decal/stripes/white/line,/turf/open/floor/iron/dark,/area/misc/hilbertshotel)
+"Zk" = (/obj/effect/turf_decal/stripes/white/line{dir = 8},/turf/open/floor/catwalk_floor,/area/misc/hilbertshotel)
+
+(1,1,1) = {"
+DGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDG
+DGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDG
+DGDGDGDGDGRxhhmrhhyXhhRxDGDGDGDG
+DGDGDGDGRxhhBNaBbXfgdUhhDGDGDGDG
+DGDGDGDGMssnzGaBhhFiRwhhhhRxDGDG
+DGDGDGRxhhhhhhaFhhhhhhhhyJRxRxDG
+DGFYFYFYjvCbTysANtJRIHpSmZxFyXDG
+DGFYFYFYjvepaBaBaBaBXbuuZkFgyXDG
+DGBTFYFYjvKFfMZilfvWPZpSLrmWyXDG
+DGDGDGRxhhhhhhjmhhhhhhhhsJRxRxDG
+DGDGDGDGWlRRspsTbpnVRkhhhhRxDGDG
+DGDGDGDGRxhhIzTJqxARrshhDGDGDGDG
+DGDGDGDGDGRxyXyXyXyXhhRxDGDGDGDG
+DGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDG
+DGDGDGDGDGDGDGDGDGDGDGDGDGDGDGDG
+"}

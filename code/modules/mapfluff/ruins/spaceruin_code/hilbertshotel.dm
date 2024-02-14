@@ -9,10 +9,13 @@ GLOBAL_VAR_INIT(hhMysteryRoomNumber, rand(1, 999999))
 	w_class = WEIGHT_CLASS_SMALL
 	resistance_flags = INDESTRUCTIBLE | LAVA_PROOF | FIRE_PROOF | UNACIDABLE | ACID_PROOF
 	//NOVA EDIT ADDITION - GHOST HOTEL UPDATE
-	var/list/static/hotel_maps = list("Generic", "Apartment", "Beach Condo")
+	var/list/static/hotel_maps = list("Generic", "Apartment", "Beach Condo", "Private Shuttle", "Nature Dorm")
 	//standart - hilber's hotel room
 	//apartment - see /datum/map_template/ghost_cafe_rooms
-	var/datum/map_template/ghost_cafe_rooms/ghost_cafe_rooms_apartment
+	var/datum/map_template/ghost_cafe_rooms/apartment/ghost_cafe_rooms_apartment
+	var/datum/map_template/ghost_cafe_rooms/beach_condo/ghost_cafe_rooms_beach_condo
+	var/datum/map_template/ghost_cafe_rooms/private_shuttle/ghost_cafe_rooms_private_shuttle
+	var/datum/map_template/ghost_cafe_rooms/nature_dorm/ghost_cafe_rooms_nature_dorm
 	//NOVA EDIT END
 	var/datum/map_template/hilbertshotel/hotelRoomTemp
 	var/datum/map_template/hilbertshotel/empty/hotelRoomTempEmpty
@@ -34,6 +37,9 @@ GLOBAL_VAR_INIT(hhMysteryRoomNumber, rand(1, 999999))
 	hotelRoomTempLore = new()
 	//NOVA EDIT ADDITION - GHOST HOTEL UPDATE
 	ghost_cafe_rooms_apartment = new()
+	ghost_cafe_rooms_beach_condo = new()
+	ghost_cafe_rooms_private_shuttle = new()
+	ghost_cafe_rooms_nature_dorm = new()
 	//NOVA EDIT END
 	var/area/currentArea = get_area(src)
 	if(currentArea.type == /area/ruin/space/has_grav/powered/hilbertresearchfacility/secretroom)
@@ -179,7 +185,11 @@ GLOBAL_VAR_INIT(hhMysteryRoomNumber, rand(1, 999999))
 	else if(chosen_room == "Apartment")
 		load_from = ghost_cafe_rooms_apartment
 	else if(chosen_room == "Beach Condo")
-		load_from = ghost_cafe_rooms_apartment
+		load_from = ghost_cafe_rooms_beach_condo
+	else if(chosen_room == "Private Shuttle")
+		load_from = ghost_cafe_rooms_private_shuttle
+	else if(chosen_room == "Nature Dorm")
+		load_from = ghost_cafe_rooms_nature_dorm
 	//NOVA EDIT ADDITION END
 
 	load_from.load(bottom_left)

@@ -13,10 +13,18 @@
 /obj/item/hilbertshotel/ghostdojo/attack_robot(mob/living/user)
 	attack_hand(user)
 
-/datum/map_template/ghost_cafe_rooms
+/datum/map_template/ghost_cafe_rooms/apartment
 	name = "Apartment"
 	mappath = "modular_nova/modules/hotel_rooms/apartment.dmm"
 
-/datum/map_template/ghost_cafe_rooms
+/datum/map_template/ghost_cafe_rooms/beach_condo
 	name = "Beach Condo"
 	mappath = "modular_nova/modules/hotel_rooms/beach_condo.dmm"
+
+/datum/map_template/ghost_cafe_rooms/private_shuttle
+	name = "Private Shuttle"
+	mappath = "modular_nova/modules/hotel_rooms/private_shuttle.dmm"
+
+/datum/map_template/ghost_cafe_rooms/nature_dorm
+	name = "Nature Dorm"
+	mappath = "modular_nova/modules/hotel_rooms/nature_dorm.dmm"
