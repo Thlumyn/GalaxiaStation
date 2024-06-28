@@ -345,3 +345,11 @@
 /area/awaymission/black_mesa/xen/nihilanth_arena
 	name = "Black Mesa Xen Nihilanth Chamber"
 	icon_state = "awaycontent19"
+
+/area/awaymission/forest_camping
+	name = "Forest Camping - Safe"
+
+/area/awaymission/forest_camping/unexplored
+	name = "Forest Camping - Unexplored"
+	area_flags = UNIQUE_AREA | FLORA_ALLOWED | MOB_SPAWN_ALLOWED | CAVES_ALLOWED
+	map_generator = /datum/map_generator/cave_generator/forest
