@@ -46,7 +46,7 @@
 	item_path = /obj/item/clothing/glasses/regular/jamjar
 
 /datum/loadout_item/glasses/prescription_glasses/thin
-	name = "Thin Glasses"
+	name = "Thin Classic Glasses"
 	item_path = /obj/item/clothing/glasses/thin
 
 /datum/loadout_item/glasses/prescription_glasses/better
